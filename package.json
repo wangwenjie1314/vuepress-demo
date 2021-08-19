@@ -1,0 +1,28 @@
+{
+  "name": "vuepress-demo",
+  "version": "1.0.0",
+  "description": "vuepress demo",
+  "main": "index.js",
+  "scripts": {
+    "dev:doc": "vuepress dev docs",
+    "build:doc": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangwenjie1314/vuepress-demo.git"
+  },
+  "keywords": [
+    "vuepress",
+    "vue",
+    "demo"
+  ],
+  "author": "boomer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wangwenjie1314/vuepress-demo/issues"
+  },
+  "homepage": "https://github.com/wangwenjie1314/vuepress-demo#readme",
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  }
+}
