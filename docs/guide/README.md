@@ -35,5 +35,9 @@ url | ajax api	| string |  必传 |-
 这是一个详情块，在 IE / Edge 中不生效
 :::
 
+## 引入iframe
+
+<iframe height=460 width=100% frameborder=0 allowfullscreen="true" src="https://www.hao123.com"></iframe>
+
 [了解更多高阶使用](https://vuepress.vuejs.org/zh/guide/markdown.html#header-anchors)
 
